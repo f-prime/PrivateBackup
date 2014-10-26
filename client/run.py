@@ -10,7 +10,7 @@ import download
 
 class Client:
     def __init__(self):
-        self.host = "workinprogressband.tk"
+        self.host = ""
         self.port = 5555
         self.dirs = []
         self.files = {}
